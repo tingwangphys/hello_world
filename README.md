@@ -1,3 +1,3 @@
 # hello_world
 first using
-$\sqrt{x}=3$
+$$\sqrt{x}=3$$
